@@ -95,7 +95,7 @@ By the end of these 180 days, I want to be capable of:
 
 ---
 
-# 📅 Weekly Progress
+#  Weekly Progress
 
 | Week | Focus | Status |
 |---|---|---|
